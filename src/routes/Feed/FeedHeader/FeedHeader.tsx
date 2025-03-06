@@ -9,7 +9,7 @@ type Props = {}
 const FeedHeader: React.FC<Props> = () => {
   return (
     <StyledWrapper>
-      <CategorySelect />
+      {/* <CategorySelect /> */}
       <OrderButtons />
     </StyledWrapper>
   )
