@@ -44,6 +44,7 @@ const StyledWrapper = styled.div`
   gap: 0.5rem;
   font-size: 0.875rem;
   line-height: 1.25rem;
+  padding: 1rem 0;
   a {
     cursor: pointer;
     color: ${({ theme }) => theme.colors.gray10};
